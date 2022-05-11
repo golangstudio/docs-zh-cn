@@ -24,3 +24,5 @@ This project requires Node.js to be `v14.0.0` or higher, because we use new Java
 ## 贡献者列表
 
 最新的文档/翻译贡献情况可以参阅 GitHub 提供的 [contributors](https://github.com/vuejs-translations/docs-zh-cn/graphs/contributors) 页面。
+
+## Test Deploy
